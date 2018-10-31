@@ -1,7 +1,7 @@
 /**
- * Three three print a/b/c in order.
+ * @Subject Three three print a/b/c in order.
+ * @Author zhangming
  */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
